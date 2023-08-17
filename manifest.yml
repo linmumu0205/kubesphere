@@ -1,0 +1,22 @@
+name: kubeSphere
+display_name: "{{ 'KubeSphere' | trans }}"
+version: 0.1
+comment: "{{ 'KubeSphere Computing Management Platform' | trans }}"
+author: mumu
+exec_type: python
+update_policy: always
+type: web
+tags:
+  - web
+protocols:
+  - kubesphere
+
+i18n:
+  KubeSphere:
+    en: KubeSphere
+    zh: KubeSphere 容器平台
+    ja: クベスフィア
+  KubeSphere Computing Management Platform:
+    en: KubeSphere Cloud Computing Management Platform
+    zh: KubeSphere 容器平台
+    ja: KubeSphereクラウドコンピューティング管理プラットフォーム
