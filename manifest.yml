@@ -1,4 +1,4 @@
-name: kubeSphere
+name: kubesphere
 display_name: "{{ 'KubeSphere' | trans }}"
 version: 0.1
 comment: "{{ 'KubeSphere Computing Management Platform' | trans }}"
